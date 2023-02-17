@@ -26,7 +26,6 @@ const Basket = sequelize.define('basket', {
         primaryKey: true,
         autoIncrement: true
     }
-
 })
 
 const BasketDevice = sequelize.define('basket_device', {
@@ -148,7 +147,7 @@ Rating.belongsTo(Device)
 Device.hasMany(BasketDevice)
 BasketDevice.belongsTo(Device)
 
-Device.hasMany(DeviceInfo)
+Device.hasMany(DeviceInfo, {as:'info'})
 DeviceInfo.belongsTo(Device)
 
 Type.belongsToMany(Brand, {through:TypeBrand})
