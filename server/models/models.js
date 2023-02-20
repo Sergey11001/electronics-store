@@ -59,8 +59,15 @@ const Device = sequelize.define('device', {
     img:{
         type:DataTypes.STRING,
         allowNull:false
-    }
-
+    },
+    brandId:{
+        type:DataTypes.INTEGER,
+        allowNull:false
+    },
+    typeId:{
+        type:DataTypes.INTEGER,
+        allowNull:false
+    },
 })
 
 const Type = sequelize.define('type', {

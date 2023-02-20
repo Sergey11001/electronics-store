@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a77c9984-291e-499b-a0c3-2f4c22155e1e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/client/src/api/deviceApi.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/api/userApi.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/AppRouter.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/BrandBar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/DeviceItem.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/DeviceList.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/NavBar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/Pages.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/TypeBar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/modals/createBrand.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/modals/createDevice.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/modals/createType.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/core/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/pages/Admin.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/pages/Auth.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/pages/Basket.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/pages/DevicePage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/pages/Shop.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/pages/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/redux/actions/deviceActions.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/redux/actions/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/redux/actions/userActions.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/redux/reducers/deviceReducer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/redux/reducers/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/redux/reducers/userReducer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/redux/store.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/routes.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/utils/constants.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/client/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/controllers/deviceController.js" beforeDir="false" afterPath="$PROJECT_DIR$/server/controllers/deviceController.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/controllers/userController.js" beforeDir="false" afterPath="$PROJECT_DIR$/server/controllers/userController.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/models/models.js" beforeDir="false" afterPath="$PROJECT_DIR$/server/models/models.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/routes/deviceRoutes.js" beforeDir="false" afterPath="$PROJECT_DIR$/server/routes/deviceRoutes.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2Lv8iKZlE3nLK0TYvWghdcWLl7E" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Projects/chat-full/src/redux/reducers/dialogs.js&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;D:\\Webstorm\\WebStorm 2022.2.1\\plugins\\JavaScriptLanguage\\jsLanguageServicesImpl\\external&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Projects\electronics-store\client\src\redux\actions" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a77c9984-291e-499b-a0c3-2f4c22155e1e" name="Changes" comment="" />
+      <created>1676740321978</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1676740321978</updated>
+      <workItem from="1676740323140" duration="9623000" />
+      <workItem from="1676797399980" duration="14408000" />
+      <workItem from="1676875230173" duration="2903000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

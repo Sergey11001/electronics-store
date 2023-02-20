@@ -51,6 +51,7 @@ class UserController {
     }
 
     auth(req, res) {
+        console.log(req.user, "cdscsdvds")
         const token = generateJWT({id:req.user.id, email: req.user.email, role: req.user.role})
         res.json({token})
     }
